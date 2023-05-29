@@ -6,11 +6,15 @@ I'm currently developing my coding skills with **Factoria F5** in a Agile driven
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,js)](https://skillicons.dev)
 
+- [X] FIGMA prototypes
+
 - [X] HTML5
 
 - [X] CSS (with also sass)
 
 - [X] JS
+
+- [ ] More to come...
 
 <!--
 **DaniCresRod/DaniCresRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
