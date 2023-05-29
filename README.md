@@ -1,8 +1,8 @@
-### Hi there 👋
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Taking+my+firsts+steps" alt="Typing SVG" /></a>
 
-I'm currently developing my coding skills with **Factoria F5** in a Agile driven bootcamp:
+### Hi there 👋
+
+My name is Daniel Crespo and I'm currently developing my coding skills with **Factoria F5** in a Agile driven bootcamp. So far, we have sucssesfully tamed dashed:
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,js)](https://skillicons.dev)
 
@@ -14,7 +14,9 @@ I'm currently developing my coding skills with **Factoria F5** in a Agile driven
 
 - [X] JS
 
-- [ ] More to come...
+- [ ] More to come for sure...
+
+"Hello, my name is Daniel Crespo. You asked for solutions. Prepare to code!" ![](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=10&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F006%2F815%2Finigo-thumb-375xauto-2548.jpg)
 
 <!--
 **DaniCresRod/DaniCresRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
