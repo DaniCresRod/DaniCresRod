@@ -2,17 +2,19 @@
 
 ### Hi there 👋
 
-My name is Daniel Crespo and I'm currently developing my coding skills with **Factoria F5** in a Agile driven bootcamp. So far, we have sucssesfully tamed dashed:
+My name is Daniel Crespo, I'm finishing an **HNC "Cross-platform application development"**, and currently developing my coding skills with **Factoria F5** in a Agile driven bootcamp. So far, we have sucssesfully tamed dashed:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,jest,java,spring,androidstudio,eclipse,idea,cs,visualstudio,vscode,mongodb,mysql,figma,postman,github&perline=8)](https://skillicons.dev)
 
-- [X] FIGMA prototypes
+- [X] HTML5, CSS (& sass), JS => Vanilla, VUE3
 
-- [X] HTML5
+- [X] Java
 
-- [X] CSS (with also sass)
+- [X] C#
 
-- [X] JS
+- [X] Android Studio
+
+- [X] DataBases => SQL & Mongo
 
 - [ ] More to come for sure...
 
