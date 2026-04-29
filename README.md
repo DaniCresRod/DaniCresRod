@@ -1,24 +1,35 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Taking+my+firsts+steps" alt="Typing SVG" /></a>
+# Daniel Crespo Rodríguez
 
-### Hi there 👋
+Desarrollador frontend especializado en **Angular**, con experiencia en mantenimiento evolutivo, mejora de aplicaciones y desarrollo en entornos corporativos.
 
-My name is Daniel Crespo, I'm finishing an **HNC "Cross-platform application development"**, and currently developing my coding skills with **Factoria F5** in a Agile driven bootcamp. So far, we have sucssesfully tamed dashed:
+Actualmente trabajo en proyectos donde combino frontend con tecnologías backend como **Java**, **SQL** y arquitecturas cliente-servidor, buscando siempre soluciones limpias, mantenibles y útiles.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,jest,java,spring,androidstudio,eclipse,idea,cs,visualstudio,vscode,mongodb,mysql,figma,postman,github&perline=10)](https://skillicons.dev)
+## Stack tecnológico
 
-- [X] HTML5, CSS (& sass), JS => Vanilla, VUE3
+- Angular
+- Vue.js
+- TypeScript / JavaScript
+- Java
+- SQL / MongoDB
+- HTML / CSS / SCSS
+- Git
 
-- [X] Java
+## Perfil profesional
 
-- [X] C#
+- Desarrollo de interfaces claras, modernas y funcionales  
+- Código limpio y mantenible  
+- Enfoque en experiencia de usuario (**UX/UI**)  
+- Resolución práctica de problemas  
+- Adaptación a distintos entornos tecnológicos  
+- Aprendizaje continuo  
 
-- [X] Android Studio
+## También me interesa
 
-- [X] DataBases => SQL & Mongo
+Automatización, IA aplicada al desarrollo y producto digital.
 
-- [ ] More to come for sure...
+## Contacto
 
-"Hello, my name is Daniel Crespo. You asked for solutions. Prepare to code!" ![](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=10&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F006%2F815%2Finigo-thumb-375xauto-2548.jpg)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-crespo-rodriguez/)
 
 <!--
 **DaniCresRod/DaniCresRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
